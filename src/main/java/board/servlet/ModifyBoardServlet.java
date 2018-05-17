@@ -2,7 +2,6 @@ package board.servlet;
 
 import java.io.IOException;
 
-import javafx.scene.control.Alert;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -10,9 +9,7 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import javax.websocket.Session;
 
-import sun.print.resources.serviceui;
 import board.service.BoardService;
 import board.service.BoardServiceInf;
 import board.vo.BoardVO;
