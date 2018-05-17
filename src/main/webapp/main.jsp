@@ -15,9 +15,9 @@
 
     <title>Dashboard Template for Bootstrap</title>
 
-    <link href="${pageContext.request.contextPath }/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="${pageContext.request.contextPath }/css/dashboard.css" rel="stylesheet">
+    <link href="/css/dashboard.css" rel="stylesheet">
 	<%@ include file="/include/commonCss.jsp" %>
 	<%@ include file="/include/jQuery.jsp" %>
 <script>
