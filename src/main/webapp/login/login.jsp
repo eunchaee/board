@@ -13,10 +13,10 @@
     <title>Signin Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath } /bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="../css/signin.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath }/css/signin.css" rel="stylesheet">
 	<%@ include file="/include/jQuery.jsp" %>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>

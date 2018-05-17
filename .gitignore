@@ -66,4 +66,3 @@ local.properties
 
 # End of https://www.gitignore.io/api/eclipse
 src/main/resources/db/mybatis/SqlMapConfig.properties
-src/main/resources/SqlMapConfig.properties
